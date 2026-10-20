@@ -29,7 +29,7 @@ Lightweight WordPress cookie consent plugin with full Google Consent Mode v2 sup
 - **Google Site Kit integration** — auto-detects Site Kit and avoids duplicate consent defaults
 - **WP Consent API integration** — shares consent status with other plugins
 - **WPML & Polylang support** — per-language banner texts, cookie descriptions, banner style, colors, and policy page
-- **Finnish translation included** — full `fi` locale with auto-localized defaults
+- **Finnish and Danish translations included** — full `fi` and `da_DK` locales with auto-localized defaults
 - **Daily cron check** — automatically monitors cookies for missing descriptions
 - **Documentations tab** — built-in installation guide and option explanations
 - **No build step** — plain PHP, JS, and CSS; just upload and activate

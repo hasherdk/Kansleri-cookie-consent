@@ -1,0 +1,1242 @@
+# Danish translation for Kansleri Cookie Consent
+# Copyright (C) 2026 Kansleri.fi
+# This file is distributed under the GPLv2 or later.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kansleri Cookie Consent 1.3.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-20 20:23+0200\n"
+"PO-Revision-Date: 2026-10-20 21:55+0200\n"
+"Last-Translator: Copilot\n"
+"Language-Team: Danish\n"
+"Language: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: includes/class-admin.php:694
+#, php-format
+msgid "%d days"
+msgstr "%d dage"
+
+#: includes/class-admin.php:75
+#, php-format
+msgid "%d known cookie(s) added automatically:"
+msgstr "%d kendt(e) cookie(s) blev automatisk tilføjet:"
+
+#: includes/class-admin.php:77
+#, php-format
+msgid ""
+"%d unknown cookie(s) added — please set their category and description "
+"below."
+msgstr ""
+"%d ukendt(e) cookie(s) blev tilføjet — angiv kategori og beskrivelse nedenfor."
+
+#: includes/class-admin.php:624
+msgid ""
+"A Google framework for privacy-safe tag behavior. Before consent, storage "
+"signals are denied; after user choice, signals are updated (for example "
+"analytics_storage=granted). This helps GTM/Google tags respect user consent "
+"state."
+msgstr ""
+"Et Google-framework for privatlivssikret tagadfærd. Før samtykke afvises "
+"lagringssignaler; efter brugerens valg opdateres signalerne (for eksempel "
+"analytics_storage=granted). Det hjælper GTM/Google-tags med at respektere "
+"brugerens samtykkestatus."
+
+#: includes/class-admin.php:611
+msgid "AI Helper"
+msgstr "AI-hjælper"
+
+#: includes/class-admin.php:618
+msgid "AI Prompt for Policy Page"
+msgstr "AI-prompt til politikside"
+
+#: includes/class-admin.php:66
+msgid "AI prompt copied to clipboard."
+msgstr "AI-prompt kopieret til udklipsholderen."
+
+#: includes/class-admin.php:73
+msgid "AI prompt for policy page copied to clipboard."
+msgstr "AI-prompt til politikside kopieret til udklipsholderen."
+
+#: includes/class-admin.php:647
+msgid "AI prompts"
+msgstr "AI-prompter"
+
+#: includes/class-admin.php:647
+msgid ""
+"AI prompts for cookie descriptions and policy pages are automatically "
+"generated in the language matching the current admin locale."
+msgstr ""
+"AI-prompter til cookie-beskrivelser og politik-sider genereres automatisk på"
+" det sprog, der svarer til administratorens aktuelle sprogindstilling."
+
+#: kansleri-cookie-consent.php:53 kansleri-cookie-consent.php:240
+msgid "Accept all"
+msgstr "Acceptér alle"
+
+#: includes/class-admin.php:226
+msgid "Accept button text"
+msgstr "Tekst på accept-knap"
+
+#: includes/class-script-blocker.php:190
+msgid "Accept marketing cookies"
+msgstr "Acceptér marketingcookies"
+
+#: includes/class-admin.php:709 includes/class-admin.php:724
+#: includes/class-admin.php:734
+msgid "Accepted all"
+msgstr "Accepterede alle"
+
+#: includes/class-admin.php:587
+msgid "Activate the plugin and open Settings > Cookie Consent."
+msgstr "Aktivér pluginet og åbn Indstillinger > Cookie-samtykke."
+
+#: includes/class-admin.php:501
+msgid ""
+"Active — Site Kit consent mode not enabled. This plugin handles all consent "
+"signals."
+msgstr ""
+"Aktiv — Site Kit-samtykkemode er ikke aktiveret. Dette plugin håndterer alle"
+" samtykkesignaler."
+
+#: includes/class-admin.php:499
+msgid ""
+"Active — Site Kit manages consent defaults. This plugin sends consent "
+"updates only."
+msgstr ""
+"Aktiv — Site Kit styrer standardindstillinger for samtykke. Dette plugin "
+"sender kun samtykkeopdateringer."
+
+#: includes/class-admin.php:512
+msgid ""
+"Active — consent status is shared with other plugins via the WP Consent API."
+msgstr "Aktiv — samtykkestatus deles med andre plugins via WP Consent API."
+
+#: includes/class-admin.php:288
+msgid "Add Cookie"
+msgstr "Tilføj cookie"
+
+#: includes/class-admin.php:79
+msgid "Added — categorize and describe in the table below"
+msgstr "Tilføjet — kategorisér og beskriv i tabellen nedenfor"
+
+#: includes/class-admin.php:72 includes/class-admin.php:971
+msgid "All consent log records and statistics have been purged."
+msgstr "Alle samtykkelogens poster og statistikker er blevet slettet."
+
+#: includes/class-admin.php:68
+msgid "All cookies are done! Every cookie has a description."
+msgstr "Færdig! Alle cookies har en beskrivelse."
+
+#: includes/class-admin.php:776
+msgid "All systems are good!"
+msgstr "Alle systemer fungerer!"
+
+#: includes/class-admin.php:56
+msgid "An error occurred."
+msgstr "Der opstod en fejl."
+
+#: includes/class-admin.php:338 kansleri-cookie-consent.php:173
+msgid "Analytics"
+msgstr "Analyse"
+
+#: includes/class-admin.php:611
+msgid ""
+"Appears after scanning when unknown cookies are found. Copies a ready prompt"
+" to paste into an AI tool. After the AI responds, paste the JSON back into "
+"the text box and click Import."
+msgstr ""
+"Vises efter skanning, når der findes ukendte cookies. Kopierer en færdig "
+"prompt, der kan indsættes i et AI-værktøj. Når AI-værktøjet har svaret, "
+"indsættes JSON-svaret i tekstfeltet, og du klikker på Importér."
+
+#: includes/class-admin.php:592
+msgid "Assign or create your Cookie Policy page in the Policy Page tab."
+msgstr "Tildel eller opret din cookiepolitikside på fanen Cookiepolitik."
+
+#: includes/class-admin.php:630 includes/class-admin.php:802
+msgid "Auto-detected scripts"
+msgstr "Automatisk registrerede scripts"
+
+#: includes/class-admin.php:188 includes/class-admin.php:601
+msgid "Banner style"
+msgstr "Bannerstil"
+
+#: includes/class-admin.php:646
+msgid ""
+"Banner style, colors, and policy page can be set per language. Settings not "
+"customized for a language fall back to the default language values."
+msgstr ""
+"Bannerstil, farver og cookiepolitikside kan indstilles pr. sprog. Indstillinger, "
+"der ikke er tilpasset et sprog, bruger værdierne fra standardsproget."
+
+#: includes/class-admin.php:191
+msgid "Bottom bar"
+msgstr "Nederste bjælke"
+
+#: includes/class-admin.php:872
+msgid "Categories"
+msgstr "Kategorier"
+
+#: includes/class-admin.php:321 includes/class-admin.php:810
+msgid "Category"
+msgstr "Kategori"
+
+#: includes/class-admin.php:192
+msgid "Centered modal"
+msgstr "Centreret modal"
+
+#: includes/class-admin.php:871
+msgid "Choice"
+msgstr "Valg"
+
+#: includes/class-admin.php:601
+msgid "Choose visual placement of the banner (bar, modal, corner)."
+msgstr "Vælg bannerets visuelle placering (bjælke, modal, hjørne)."
+
+#: includes/class-admin.php:298
+msgid "Click Import — cookies are saved automatically."
+msgstr "Klik på Importér — cookies gemmes automatisk."
+
+#: includes/class-admin.php:294
+msgid ""
+"Click the button below to copy a ready-made AI prompt with your cookie data."
+msgstr ""
+"Klik på knappen nedenfor for at kopiere en færdig AI-prompt med dine cookie-"
+"data."
+
+#: includes/class-consent.php:107
+msgid "Close"
+msgstr "Luk"
+
+#: includes/class-admin.php:588
+msgid "Configure banner texts, style, and button labels in the General tab."
+msgstr "Konfigurer bannertekster, stil og knaptekster på fanebladet Generelt."
+
+#: includes/class-admin.php:637 includes/class-admin.php:843
+msgid "Consent Log"
+msgstr "Samtykkelog"
+
+#: includes/class-admin.php:561
+msgid "Consent Mode defaults (auto-injected in &lt;head&gt;)"
+msgstr ""
+"Standardindstillinger for Consent Mode (automatisk indsat i &lt;head&gt;)"
+
+#: includes/class-admin.php:540
+msgid ""
+"Consent Mode tells Google tags what the visitor has allowed (for example "
+"analytics or ads). This plugin sends a denied-by-default signal before tags "
+"run, and sends an updated signal after the visitor chooses. It controls "
+"consent signals only: you still need to install GTM/GA scripts separately."
+msgstr ""
+"Consent Mode fortæller Google-tags, hvad den besøgende har givet samtykke "
+"til (for eksempel analyse eller annoncer). Dette plugin sender som standard "
+"et signal om afvisning, før tags kører, og opdaterer signalet, når den "
+"besøgende har truffet sit valg. Det styrer kun samtykkesignaler: du skal "
+"stadig installere GTM/GA-scripts separat."
+
+#: includes/class-admin.php:636
+msgid "Consent statistics"
+msgstr "Samtykkestatistik"
+
+#: includes/class-admin.php:602
+msgid "Controls the main accent color used by buttons and links."
+msgstr "Styrer den primære accentfarve, der bruges til knapper og links."
+
+#: includes/class-admin.php:411
+msgid ""
+"Controls the styling of the [kncc_cookie_policy] cookie declaration table."
+msgstr ""
+"Styrer udseendet af cookiedeklarationstabellen fra [kncc_cookie_policy]."
+
+#: includes/class-policy-page.php:90 includes/class-policy-page.php:99
+msgid "Cookie"
+msgstr "Cookie"
+
+#: includes/class-admin.php:20 includes/class-admin.php:21
+#: includes/class-admin.php:109
+msgid "Cookie Consent"
+msgstr "Cookie-samtykke"
+
+#: kansleri-cookie-consent.php:389
+#, php-format
+msgid ""
+"Cookie Consent: %1$d cookie(s) are missing descriptions: %2$s. %3$s to add "
+"them."
+msgstr ""
+"%1$d cookie(s) mangler beskrivelse: %2$s. %3$s for at tilføje "
+"beskrivelserne."
+
+#: includes/class-consent.php:99 includes/class-policy-page.php:27
+msgid "Cookie Policy"
+msgstr "Cookiepolitik"
+
+#: includes/class-consent.php:87
+msgid "Cookie consent"
+msgstr "Cookie-samtykke"
+
+#: includes/class-admin.php:645
+msgid ""
+"Cookie names, categories, providers, and durations are shared across all "
+"languages. Only the description field can be translated per language. Switch"
+" language and edit descriptions in the Cookies tab."
+msgstr ""
+"Cookienavne, kategorier, udbydere og varigheder er fælles for alle sprog. "
+"Kun beskrivelsesfeltet kan oversættes pr. sprog. Skift sprog, og rediger "
+"beskrivelserne på fanen Cookies."
+
+#: includes/class-admin.php:388 includes/class-admin.php:617
+msgid "Cookie policy page"
+msgstr "Cookiepolitikside"
+
+#: includes/class-admin.php:377
+#, php-format
+msgid ""
+"Cookie policy page is missing a translation for: %s. Create the translated "
+"page and add the [kncc_cookie_policy] shortcode."
+msgstr ""
+"Cookiepolitiksiden mangler en oversættelse til: %s. Opret den oversatte "
+"side, og tilføj shortcoden [kncc_cookie_policy]."
+
+#: includes/class-consent.php:139 includes/class-consent.php:140
+#: kansleri-cookie-consent.php:424
+msgid "Cookie settings"
+msgstr "Cookieindstillinger"
+
+#: includes/class-admin.php:118 kansleri-cookie-consent.php:405
+msgid "Cookies"
+msgstr "Cookies"
+
+#: includes/class-admin.php:63
+msgid "Cookies imported into the table. Save cookies to persist changes."
+msgstr ""
+"Cookies importeret til tabellen. Gem cookies for at bevare ændringerne."
+
+#: includes/class-admin.php:1117
+msgid "Cookies saved."
+msgstr "Cookies gemt."
+
+#: includes/class-admin.php:608
+msgid "Cookies tab"
+msgstr "Fanebladet Cookies"
+
+#: includes/class-admin.php:253
+msgid "Copied!"
+msgstr "Kopieret!"
+
+#: includes/class-admin.php:253 includes/class-admin.php:254
+msgid "Copy"
+msgstr "Kopiér"
+
+#: includes/class-admin.php:438
+msgid "Copy AI Prompt for Policy Page"
+msgstr "Kopiér AI-prompt til cookiepolitik"
+
+#: includes/class-admin.php:302
+msgid "Copy AI Prompt to Clipboard"
+msgstr "Kopiér AI-prompt til udklipsholderen"
+
+#: includes/class-admin.php:297
+msgid ""
+"Copy the AI response and paste it into the text box that appears below."
+msgstr "Kopiér AI-svaret, og indsæt det i tekstfeltet nedenfor."
+
+#: includes/class-admin.php:434
+msgid ""
+"Copy the prompt below and paste it into an AI tool. It will generate a "
+"complete cookie and privacy policy page in your site language. The cookie "
+"declaration will be handled automatically by the [kncc_cookie_policy] "
+"shortcode. Paste the generated HTML into your policy page."
+msgstr ""
+"Kopiér prompten nedenfor, og indsæt den i et AI-værktøj. AI-værktøjet "
+"genererer en komplet privatlivspolitik og cookiepolitik på dit websteds "
+"sprog. "
+"Cookiedeklarationen indsættes automatisk med shortcoden "
+"[kncc_cookie_policy]. Indsæt den genererede HTML på cookiepolitiksiden."
+
+#: includes/class-admin.php:193
+msgid "Corner popup"
+msgstr "Popup i hjørnet"
+
+#: includes/class-admin.php:67
+msgid ""
+"Could not copy prompt automatically. Copy it manually from the prompt "
+"dialog."
+msgstr ""
+"Kunne ikke kopiere prompten automatisk. Kopiér den manuelt fra "
+"promptdialogen."
+
+#: includes/class-admin.php:758
+#, php-format
+msgid "Cron error: %s"
+msgstr "Cron-fejl: %s"
+
+#: includes/class-admin.php:717 includes/class-admin.php:727
+#: includes/class-admin.php:735
+msgid "Custom selection"
+msgstr "Tilpasset valg"
+
+#: kansleri-cookie-consent.php:55 kansleri-cookie-consent.php:242
+msgid "Customize"
+msgstr "Tilpas"
+
+#: includes/class-admin.php:234
+msgid "Customize button text"
+msgstr "Tekst på tilpas-knap"
+
+#: includes/class-admin.php:604
+msgid "Customize visible wording in the consent banner."
+msgstr "Tilpas den synlige tekst i samtykkebanneret."
+
+#: includes/class-admin.php:869
+msgid "Date/Time"
+msgstr "Dato/tid"
+
+#: includes/class-admin.php:324
+msgid "Description"
+msgstr "Beskrivelse"
+
+#: includes/class-admin.php:220
+msgid "Description text"
+msgstr "Beskrivelsestekst"
+
+#: includes/class-admin.php:491
+msgid "Detected integrations"
+msgstr "Opdagede integrationer"
+
+#: includes/class-admin.php:652
+msgid "Displays the full cookie declaration table on your policy page."
+msgstr "Viser hele cookiedeklarationstabellen på cookiepolitiksiden."
+
+#: includes/class-admin.php:133
+msgid "Documentations"
+msgstr "Dokumentation"
+
+#: includes/class-admin.php:638
+msgid "Downloads all consent log records as a CSV file for auditing."
+msgstr "Downloader alle poster i samtykkeloggen som en CSV-fil til revision."
+
+#: includes/class-admin.php:323 includes/class-policy-page.php:93
+#: includes/class-policy-page.php:102
+msgid "Duration"
+msgstr "Varighed"
+
+#: includes/class-policy-page.php:79
+msgid "Edit cookie preferences"
+msgstr "Rediger cookieindstillinger"
+
+#: includes/class-admin.php:528
+msgid ""
+"Enable Consent Mode v2 (outputs consent defaults in &lt;head&gt; before GTM)"
+msgstr ""
+"Aktivér Consent Mode v2 (udskriver standardindstillinger for samtykke i "
+"&lt;head&gt; før GTM)"
+
+#: includes/class-admin.php:638 includes/class-admin.php:859
+msgid "Export CSV"
+msgstr "Eksportér CSV"
+
+#: includes/class-admin.php:242 includes/class-admin.php:605
+msgid "Floating settings button"
+msgstr "Flydende indstillingsknap"
+
+#: includes/class-admin.php:536
+msgid ""
+"Forced on because Google Site Kit is active. Consent Mode is required for "
+"Site Kit to receive consent signals."
+msgstr ""
+"Tvinget til at være aktiveret, fordi Google Site Kit er aktivt. Consent Mode"
+" kræves, for at Site Kit kan modtage samtykkesignaler."
+
+#: includes/class-admin.php:551 includes/class-admin.php:625
+msgid "GTM Container ID"
+msgstr "GTM-container-ID"
+
+#: includes/class-admin.php:115
+msgid "General"
+msgstr "Generelt"
+
+#: includes/class-admin.php:599
+msgid "General tab"
+msgstr "Fanebladet Generelt"
+
+#: includes/class-admin.php:432
+msgid "Generate cookie policy page content with AI"
+msgstr "Generér indhold til cookiepolitiksiden med AI"
+
+#: includes/class-admin.php:618
+msgid ""
+"Generates a prompt you can paste into an AI tool to create a full privacy "
+"and cookie policy. The generated text will include the [kncc_cookie_policy] "
+"shortcode for the cookie declaration section."
+msgstr ""
+"Genererer en prompt, du kan indsætte i et AI-værktøj for at oprette en "
+"komplet privatlivs- og cookiepolitik. Den genererede tekst indeholder "
+"shortcoden [kncc_cookie_policy] til cookiedeklarationen."
+
+#: kansleri-cookie-consent.php:392
+msgid "Go to Cookies tab"
+msgstr "Gå til fanebladet Cookies"
+
+#: includes/class-admin.php:524 includes/class-admin.php:624
+msgid "Google Consent Mode v2"
+msgstr "Google Consent Mode v2"
+
+#: includes/class-admin.php:214
+msgid "Heading text"
+msgstr "Overskriftstekst"
+
+#: includes/class-admin.php:604
+msgid "Heading/Description/Button texts"
+msgstr "Overskrift-/beskrivelses-/knaptekster"
+
+#: kansleri-cookie-consent.php:174
+msgid "Help us understand how visitors interact with the website."
+msgstr ""
+"Hjælper os med at forstå, hvordan besøgende interagerer med webstedet."
+
+#: includes/class-admin.php:666
+msgid ""
+"I made this plugin for free because I got frustrated by the existing cookie "
+"consent plugins — too much bloat and useless features. If you like it and "
+"want to buy me a coffee, you can do it here:"
+msgstr ""
+"Jeg lavede dette plugin gratis, fordi jeg var træt af eksisterende cookie-"
+"samtykkeplugins — de havde for meget unødvendigt fyld og for mange "
+"ubrugelige funktioner. Hvis du kan lide det og vil give mig en kop kaffe, "
+"kan du gøre det her:"
+
+#: includes/class-admin.php:658
+msgid ""
+"If GTM Preview does not show consent updates, verify Consent Mode v2 is "
+"enabled and test in a fresh browser session without existing consent cookie."
+msgstr ""
+"Hvis GTM Preview ikke viser samtykkeopdateringer, skal du kontrollere, at "
+"Consent Mode v2 er aktiveret, og teste i en ny browser-session uden "
+"eksisterende samtykkecookie."
+
+#: includes/class-admin.php:619
+msgid ""
+"If Polylang or WPML is active, the plugin checks that the policy page has a "
+"translation in every active language and warns you if any are missing."
+msgstr ""
+"Hvis Polylang eller WPML er aktivt, kontrollerer pluginet, at "
+"cookiepolitiksiden er oversat til alle aktive sprog, og advarer dig, hvis "
+"en oversættelse mangler."
+
+#: includes/class-admin.php:659
+msgid ""
+"If banner typography looks odd with your theme, switch General > Text and "
+"font style to Plugin style."
+msgstr ""
+"Hvis bannerets typografi ser underlig ud med dit tema, skal du skifte "
+"Generelt > Tekst og skrifttype til Pluginstil."
+
+#: includes/class-admin.php:660
+msgid ""
+"If scripts still load before consent, check that they appear in the Script "
+"Blocking tab with a recognized handle."
+msgstr ""
+"Hvis scripts stadig indlæses før samtykke, skal du kontrollere, at de vises "
+"på fanen Scriptblokering med et genkendt handle."
+
+#: includes/class-admin.php:662
+msgid ""
+"If the policy page warning shows missing translations, create the translated"
+" page in each language and add the [kncc_cookie_policy] shortcode."
+msgstr ""
+"Hvis advarslen om cookiepolitiksiden viser manglende oversættelser, skal du "
+"oprette en oversat side for hvert sprog og tilføje shortcoden "
+"[kncc_cookie_policy]."
+
+#: includes/class-admin.php:661
+msgid ""
+"If the statistics are empty, make sure visitors have interacted with the "
+"banner. Data starts recording after the first consent choice."
+msgstr ""
+"Hvis statistikken er tom, skal du sikre dig, at besøgende har interageret "
+"med banneret. Data registreres fra det første samtykkevalg."
+
+#: includes/class-admin.php:591
+msgid ""
+"If unknown cookies are found, an AI helper appears: copy the prompt, paste "
+"it into an AI tool, paste the response back into the text box, click Import,"
+" then Save Cookies."
+msgstr ""
+"Hvis ukendte cookies findes, vises en AI-hjælper: kopier prompten, indsæt "
+"den i et AI-værktøj, indsæt svaret tilbage i tekstfeltet, klik på Importér "
+"og derefter Gem cookies."
+
+#: includes/class-admin.php:309
+msgid "Import"
+msgstr "Importér"
+
+#: includes/class-admin.php:637
+msgid ""
+"Individual anonymized consent records for GDPR audit compliance. Records "
+"contain a hashed visitor identifier, the consent choice, accepted "
+"categories, and the policy version. Records are automatically purged after "
+"13 months."
+msgstr ""
+"Individuelle anonymiserede samtykkeposter til GDPR-revision. Poster "
+"indeholder en hashbaseret besøgsidentifikator, det valgte samtykke, de "
+"accepterede kategorier og politikversionen. Poster slettes automatisk efter "
+"13 måneder."
+
+#: includes/class-admin.php:845
+msgid ""
+"Individual consent records for GDPR audit compliance. Records are "
+"automatically purged after the retention period (13 months)."
+msgstr ""
+"Individuelle samtykkeposter til GDPR-revision. Poster slettes automatisk "
+"efter opbevaringsperioden på 13 måneder."
+
+#: includes/class-admin.php:585
+msgid "Installation guide"
+msgstr "Installationsguide"
+
+#: includes/class-admin.php:124
+msgid "Integration"
+msgstr "Integration"
+
+#: includes/class-admin.php:622
+msgid "Integration tab"
+msgstr "Fanebladet Integration"
+
+#: includes/class-admin.php:62
+msgid "Invalid JSON format. Please import a valid cookie array."
+msgstr "Ugyldigt JSON-format. Importér venligst et gyldigt cookie-array."
+
+#: kansleri-cookie-consent.php:356
+#, php-format
+msgid ""
+"Kansleri Cookie Consent is now active. Next steps: %1$s to discover cookies "
+"and %2$s to review banner and consent settings."
+msgstr ""
+"Kansleri Cookie Consent er nu aktiv. Næste trin: %1$s for at opdage cookies "
+"og %2$s for at gennemgå banner- og samtykkeindstillinger."
+
+#: includes/class-admin.php:605
+msgid "Lets visitors re-open cookie settings after they close the banner."
+msgstr ""
+"Lader besøgende åbne cookieindstillingerne igen efter at have lukket "
+"banneret."
+
+#: includes/class-admin.php:261
+msgid "Manage cookies"
+msgstr "Administrer cookies"
+
+#: includes/class-admin.php:339 kansleri-cookie-consent.php:177
+msgid "Marketing"
+msgstr "Marketing"
+
+#: includes/class-admin.php:619
+msgid "Multilingual support"
+msgstr "Flersproget understøttelse"
+
+#: includes/class-admin.php:642
+msgid "Multilingual support (WPML & Polylang)"
+msgstr "Flersproget understøttelse (WPML og Polylang)"
+
+#: includes/class-admin.php:320
+msgid "Name"
+msgstr "Navn"
+
+#: includes/class-admin.php:337 kansleri-cookie-consent.php:169
+msgid "Necessary"
+msgstr "Nødvendige"
+
+#: includes/class-admin.php:292
+msgid "Need help describing these cookies?"
+msgstr "Har du brug for hjælp til at beskrive disse cookies?"
+
+#: includes/class-admin.php:854
+msgid "Newest:"
+msgstr "Nyeste:"
+
+#: includes/class-admin.php:783
+#, php-format
+msgid "Next check: %s"
+msgstr "Næste kontrol: %s"
+
+#: includes/class-admin.php:741
+msgid ""
+"No consent data recorded yet. Statistics will appear after visitors start "
+"interacting with the cookie banner."
+msgstr ""
+"Der er endnu ikke registreret samtykkedata. Statistik vises, når besøgende "
+"begynder at interagere med cookie-banneret."
+
+#: includes/class-admin.php:864
+msgid "No consent log records yet."
+msgstr "Der er endnu ingen poster i samtykkelogen."
+
+#: includes/class-admin.php:368
+msgid ""
+"No cookie policy page has been selected. Please select or create one below."
+msgstr ""
+"Der er ikke valgt en cookiepolitikside. Vælg eller opret en nedenfor."
+
+#: includes/class-admin.php:65
+msgid "No cookie rows available to export."
+msgstr "Ingen rækker med cookies til eksport."
+
+#: includes/class-policy-page.php:48
+msgid "No cookies have been registered yet."
+msgstr "Ingen cookies er registreret endnu."
+
+#: includes/class-admin.php:69 includes/class-admin.php:330
+msgid "No cookies registered yet."
+msgstr "Ingen cookies registreret endnu."
+
+#: includes/class-admin.php:59
+msgid "No new cookies found."
+msgstr "Ingen nye cookies fundet."
+
+#: includes/class-admin.php:64
+msgid "No valid cookies found in imported JSON."
+msgstr "Ingen gyldige cookies fundet i den importerede JSON."
+
+#: includes/class-admin.php:851
+msgid "Oldest:"
+msgstr "Ældste:"
+
+#: includes/class-admin.php:590
+msgid ""
+"Open the Cookies tab, run Scan Cookies, then review and categorize unknown "
+"cookies."
+msgstr ""
+"Åbn fanebladet Cookies, kør Skan cookies og gennemgå derefter ukendte "
+"cookies og kategoriser dem."
+
+#: includes/class-admin.php:589
+msgid ""
+"Open the Integration tab and enable Google Consent Mode v2 if you use "
+"GTM/Google tags."
+msgstr ""
+"Åbn fanebladet Integration og aktivér Google Consent Mode v2, hvis du bruger"
+" GTM/Google-tags."
+
+#: includes/class-admin.php:306
+msgid "Paste the AI response here:"
+msgstr "Indsæt AI-svaret her:"
+
+#: includes/class-admin.php:295
+msgid "Paste the prompt into an AI tool (ChatGPT, Claude, Gemini, etc.)."
+msgstr "Indsæt prompten i et AI-værktøj (ChatGPT, Claude, Gemini, osv.)."
+
+#: includes/class-admin.php:644
+msgid "Per-language banner texts"
+msgstr "Bannertekster pr. sprog"
+
+#: includes/class-admin.php:645
+msgid "Per-language cookie descriptions"
+msgstr "Cookie-beskrivelser pr. sprog"
+
+#: includes/class-admin.php:646
+msgid "Per-language settings"
+msgstr "Indstillinger pr. sprog"
+
+#: includes/class-admin.php:639
+msgid "Permanently deletes all consent log records and aggregate statistics."
+msgstr ""
+"Sletter alle poster i samtykkelogen og aggregerede statistikker permanent."
+
+#: includes/class-admin.php:612
+msgid ""
+"Persists current cookie table values to be used in policy output and consent"
+" details."
+msgstr ""
+"Gemmer de aktuelle cookietabelværdier, så de kan bruges i "
+"politikoutput og samtykkeoplysninger."
+
+#: includes/class-admin.php:208 includes/class-admin.php:408
+msgid "Plugin style (strict font sizes/colors)"
+msgstr "Pluginstil (faste skriftstørrelser og farver)"
+
+#: includes/class-admin.php:121
+msgid "Policy Page"
+msgstr "Cookiepolitik"
+
+#: includes/class-admin.php:615
+msgid "Policy Page tab"
+msgstr "Fanen Cookiepolitik"
+
+#: includes/class-admin.php:873
+msgid "Policy Version"
+msgstr "Politikversion"
+
+#: includes/class-admin.php:404
+msgid "Policy page style"
+msgstr "Cookiepolitikkens udseende"
+
+#: includes/class-admin.php:340 kansleri-cookie-consent.php:181
+msgid "Preferences"
+msgstr "Præferencer"
+
+#: includes/class-admin.php:425
+msgid "Preview Policy Page"
+msgstr "Forhåndsvis cookiepolitikside"
+
+#: includes/class-admin.php:198 includes/class-admin.php:602
+msgid "Primary color"
+msgstr "Primær farve"
+
+#: includes/class-admin.php:322 includes/class-policy-page.php:91
+#: includes/class-policy-page.php:100
+msgid "Provider"
+msgstr "Udbyder"
+
+#: includes/class-admin.php:639 includes/class-admin.php:860
+msgid "Purge All Records"
+msgstr "Slet alle poster"
+
+#: includes/class-policy-page.php:92 includes/class-policy-page.php:101
+msgid "Purpose"
+msgstr "Formål"
+
+#: kansleri-cookie-consent.php:54 kansleri-cookie-consent.php:241
+msgid "Reject all"
+msgstr "Afvis alle"
+
+#: includes/class-admin.php:230
+msgid "Reject button text"
+msgstr "Tekst på afvis-knap"
+
+#: includes/class-admin.php:713 includes/class-admin.php:730
+#: includes/class-admin.php:736
+msgid "Rejected all"
+msgstr "Afviste alle"
+
+#: kansleri-cookie-consent.php:182
+msgid "Remember your settings and preferences for a better experience."
+msgstr "Husk dine indstillinger og præferencer for en bedre oplevelse."
+
+#: includes/class-admin.php:70 includes/class-admin.php:346
+msgid "Remove"
+msgstr "Fjern"
+
+#: includes/class-admin.php:60
+msgid "Remove this cookie?"
+msgstr "Fjern denne cookie?"
+
+#: includes/class-admin.php:653
+msgid ""
+"Renders a link that opens the cookie settings dialog. Use in footers, menus,"
+" or widgets. Customize the link text with the text attribute, e.g. "
+"[kncc_cookie_settings text=\"Manage cookies\"]."
+msgstr ""
+"Viser et link, der åbner dialogboksen med cookieindstillinger. Brug det i "
+"sidefødder, menuer eller widgets. Tilpas linkteksten med attributten text, "
+"f.eks. [kncc_cookie_settings text=\"Administrer cookies\"]."
+
+#: kansleri-cookie-consent.php:170
+msgid "Required for the website to function. Cannot be disabled."
+msgstr "Kræves for at webstedet fungerer. Kan ikke deaktiveres."
+
+#: includes/class-admin.php:594
+msgid "Review the Script Blocking tab to see which scripts are auto-blocked."
+msgstr ""
+"Se fanen Scriptblokering for at finde ud af, hvilke scripts der blokeres "
+"automatisk."
+
+#: includes/class-admin.php:353 includes/class-admin.php:612
+msgid "Save Cookies"
+msgstr "Gem cookies"
+
+#: includes/class-admin.php:270 includes/class-admin.php:417
+#: includes/class-admin.php:576
+msgid "Save Settings"
+msgstr "Gem indstillinger"
+
+#: kansleri-cookie-consent.php:56 kansleri-cookie-consent.php:243
+msgid "Save preferences"
+msgstr "Gem indstillinger"
+
+#: includes/class-admin.php:238
+msgid "Save preferences button text"
+msgstr "Tekst på knappen 'Gem indstillinger'"
+
+#: includes/class-admin.php:61 includes/class-admin.php:287
+#: includes/class-admin.php:610
+msgid "Scan Cookies"
+msgstr "Skan cookies"
+
+#: includes/class-admin.php:58
+msgid "Scan complete."
+msgstr "Skanning fuldført."
+
+#: kansleri-cookie-consent.php:357
+msgid "Scan cookies"
+msgstr "Skan cookies"
+
+#: includes/class-admin.php:57
+msgid "Scanning..."
+msgstr "Skanner..."
+
+#: includes/class-admin.php:610
+msgid ""
+"Scans detected cookies and auto-maps known cookies to categories when "
+"possible."
+msgstr ""
+"Skanner registrerede cookies og kortlægger kendte cookies automatisk til "
+"kategorier, hvor det er muligt."
+
+#: includes/class-admin.php:127
+msgid "Script Blocking"
+msgstr "Scriptblokering"
+
+#: includes/class-admin.php:628
+msgid "Script Blocking tab"
+msgstr "Fanen Scriptblokering"
+
+#: includes/class-admin.php:809
+msgid "Script Handle"
+msgstr "Script-handle"
+
+#: includes/class-admin.php:799
+msgid ""
+"Script blocking prevents third-party scripts from running until the visitor "
+"gives consent for that category. WordPress-enqueued scripts with known "
+"handles (Google Analytics, Meta Pixel, etc.) are auto-blocked."
+msgstr ""
+"Scriptblokering forhindrer tredjepartsscripts i at køre, indtil den "
+"besøgende giver samtykke til den pågældende kategori. Scripts, der er sat i "
+"kø i WordPress med kendte handles (Google Analytics, Meta Pixel osv.), "
+"blokeres automatisk."
+
+#: includes/class-script-blocker.php:283
+msgid "Script blocking settings saved."
+msgstr "Indstillinger for scriptblokering gemt."
+
+#: includes/class-admin.php:399
+msgid ""
+"Select a page or use the button below to create one. Add the shortcode "
+"[kncc_cookie_policy] to its content."
+msgstr ""
+"Vælg en side eller brug knappen nedenfor for at oprette en. Tilføj "
+"shortcoden [kncc_cookie_policy] til dens indhold."
+
+#: includes/class-admin.php:617
+msgid ""
+"Selects which page is used for cookie policy content generated by shortcode."
+msgstr ""
+"Vælger hvilken side, der bruges til cookiepolitikindhold genereret af "
+"shortcoden."
+
+#: kansleri-cookie-consent.php:333
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: includes/class-admin.php:55 includes/class-admin.php:1034
+msgid "Settings saved."
+msgstr "Indstillinger gemt."
+
+#: includes/class-admin.php:650
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: includes/class-admin.php:246
+msgid ""
+"Show a small floating button so visitors can re-open their cookie "
+"preferences"
+msgstr ""
+"Vis en lille flydende knap, så besøgende kan åbne deres cookieindstillinger "
+"igen"
+
+#: includes/class-admin.php:630
+msgid ""
+"Shows WordPress-enqueued scripts that the plugin automatically recognizes "
+"and blocks (e.g. Google Analytics, Meta Pixel). These are blocked before "
+"consent and activated after the visitor accepts the relevant category."
+msgstr ""
+"Viser scripts, der er sat i kø i WordPress, og som pluginet automatisk "
+"genkender og blokerer (f.eks. Google Analytics og Meta Pixel). De blokeres "
+"før samtykke og aktiveres, når den besøgende accepterer den relevante "
+"kategori."
+
+#: includes/class-admin.php:636
+msgid ""
+"Shows how many visitors accepted, rejected, or customized cookies over 7, "
+"30, or 90 day periods. Data is aggregated and anonymous — no personal data "
+"is stored."
+msgstr ""
+"Viser, hvor mange besøgende der accepterede, afviste eller tilpassede "
+"cookies i perioder på 7, 30 eller 90 dage. Dataene er aggregerede og anonyme"
+" — der gemmes ingen personoplysninger."
+
+#: includes/class-admin.php:545
+msgid ""
+"Site Kit is handling consent defaults. This plugin will only send consent "
+"updates after user choice — no duplicate defaults."
+msgstr ""
+"Site Kit håndterer standardsamtykket. Dette plugin sender kun "
+"samtykkeopdateringer efter brugerens valg, så der ikke sendes dobbelte "
+"standardsignaler."
+
+#: includes/class-admin.php:130
+msgid "Statistics"
+msgstr "Statistik"
+
+#: includes/class-admin.php:634
+msgid "Statistics tab"
+msgstr "Fanen Statistik"
+
+#: includes/class-admin.php:204 includes/class-admin.php:603
+msgid "Text and font style"
+msgstr "Tekst- og skrifttypestil"
+
+#: includes/class-admin.php:296
+msgid "The AI will return improved JSON with clear cookie descriptions."
+msgstr "AI-værktøjet returnerer forbedret JSON med tydelige cookiebeskrivelser."
+
+#: includes/class-admin.php:554
+msgid ""
+"The Container ID is your Google Tag Manager workspace identifier (format: "
+"GTM-XXXXXXX), found in GTM top bar or Admin. In this plugin it is a "
+"reference field to keep configuration documented; it does not automatically "
+"embed the GTM code snippet."
+msgstr ""
+"Container-ID'et er din Google Tag Manager-identifikator for arbejdsområdet "
+"(format: GTM-XXXXXXX), som findes i GTM's topbjælke eller "
+"administrationsområde. I dette plugin er det et referencefelt til "
+"dokumentation af konfigurationen; det indlejrer ikke automatisk "
+"GTM-kodestykket."
+
+#: kansleri-cookie-consent.php:407
+msgid ""
+"The plugin also records anonymous, aggregated consent statistics (how many "
+"visitors accepted, rejected, or customized cookies each day) and individual "
+"consent log entries for GDPR audit compliance. Consent log entries contain a"
+" hashed (non-reversible) visitor identifier, the consent choice, which "
+"categories were accepted, and the policy version. No IP addresses, user "
+"identifiers, or personal data are stored in plain text. Consent log records "
+"are automatically deleted after 13 months."
+msgstr ""
+"Pluginet registrerer også anonyme, aggregerede samtykkestatistikker (hvor "
+"mange besøgende der accepterede, afviste eller tilpassede cookies hver dag) "
+"samt individuelle poster i samtykkeloggen til GDPR-revision. Poster i "
+"samtykkeloggen indeholder en hashbaseret (ikke-reversibel) "
+"besøgsidentifikator, det valgte samtykke, de accepterede kategorier og "
+"politikversionen. IP-adresser, "
+"brugeridentifikatorer eller personoplysninger gemmes ikke i klartekst. "
+"Poster i samtykkeloggen slettes automatisk efter 13 måneder."
+
+#: includes/class-admin.php:778
+msgid "The plugin re-checks cookies every day via cron."
+msgstr "Pluginet kontrollerer cookies igen hver dag via cron."
+
+#: includes/class-admin.php:207 includes/class-admin.php:407
+msgid "Theme style (inherit site typography)"
+msgstr "Temastil (følger webstedets typografi)"
+
+#: includes/class-admin.php:603
+msgid ""
+"Theme style inherits site typography. Plugin style uses strict sizes/colors "
+"for consistent readability."
+msgstr ""
+"Temastil følger webstedets typografi. Pluginstil bruger faste "
+"skriftstørrelser og farver for ensartet læsbarhed."
+
+#: includes/class-policy-page.php:61
+msgid ""
+"These cookies allow the website to remember choices you make and provide "
+"enhanced functionality and personalisation."
+msgstr ""
+"Disse cookies gør det muligt for webstedet at huske de valg, du foretager, "
+"og giver forbedret funktionalitet og personalisering."
+
+#: includes/class-policy-page.php:58
+msgid ""
+"These cookies are essential for the website to function and cannot be "
+"switched off."
+msgstr ""
+"Disse cookies er essentielle for, at webstedet kan fungere, og kan ikke slås"
+" fra."
+
+#: includes/class-policy-page.php:60
+msgid ""
+"These cookies are used to deliver relevant advertisements and track ad "
+"campaign performance."
+msgstr ""
+"Disse cookies bruges til at vise relevante annoncer og spore ydeevnen af "
+"annoncekampagner."
+
+#: includes/class-policy-page.php:59
+msgid ""
+"These cookies help us understand how visitors interact with the website by "
+"collecting and reporting information anonymously."
+msgstr ""
+"Disse cookies hjælper os med at forstå, hvordan besøgende interagerer med "
+"webstedet, ved at indsamle og rapportere oplysninger anonymt."
+
+#: includes/class-admin.php:804
+msgid ""
+"These script handles are automatically recognized and blocked before "
+"consent. No configuration needed — they are blocked by default when detected"
+" on your site."
+msgstr ""
+"Disse script-handles genkendes og blokeres automatisk før samtykke. Ingen "
+"konfiguration er nødvendig — de blokeres som standard, når de registreres på"
+" dit websted."
+
+#: includes/class-script-blocker.php:187
+msgid "This content is blocked because it requires marketing cookies."
+msgstr "Dette indhold er blokeret, fordi det kræver marketingcookies."
+
+#: kansleri-cookie-consent.php:406
+msgid ""
+"This site uses a cookie consent banner powered by Kansleri Cookie Consent. "
+"When you interact with the banner, a cookie named <code>kncc_consent</code> "
+"is stored in your browser for up to 1 year. It records your consent "
+"preferences (which cookie categories you accepted or rejected) so the site "
+"can remember your choice on future visits. No personal data is stored in "
+"this cookie."
+msgstr ""
+"Dette websted bruger et cookie-samtykkebanner fra Kansleri Cookie "
+"Consent. Når du interagerer med banneret, gemmes en cookie med navnet "
+"<code>kncc_consent</code> i din browser i op til 1 år. Den registrerer dine "
+"samtykkeindstillinger (hvilke cookiekategorier du accepterede eller "
+"afviste), så webstedet kan huske dit valg ved fremtidige besøg. Der gemmes "
+"ingen personlige oplysninger i denne cookie."
+
+#: includes/class-admin.php:71
+msgid ""
+"This will permanently delete all consent log records and statistics. "
+"Continue?"
+msgstr ""
+"Dette sletter alle poster i samtykkelogen og al statistik permanent. Vil du "
+"fortsætte?"
+
+#: includes/class-admin.php:849
+msgid "Total records:"
+msgstr "Poster i alt:"
+
+#: includes/class-admin.php:705
+msgid "Total responses"
+msgstr "Svar i alt"
+
+#: includes/class-admin.php:656
+msgid "Troubleshooting"
+msgstr "Fejlfinding"
+
+#: includes/class-admin.php:78
+msgid "Unknown"
+msgstr "Ukendt"
+
+#: includes/class-admin.php:210
+msgid ""
+"Use Theme style by default. Switch to Plugin style if your theme typography "
+"makes the banner hard to read."
+msgstr ""
+"Brug temastil som standard. Skift til pluginstil, hvis dit temas typografi "
+"gør banneret svært at læse."
+
+#: includes/class-admin.php:593
+msgid ""
+"Use the AI prompt on the Policy Page tab to generate the full cookie policy "
+"page content. Paste the generated HTML into your policy page."
+msgstr ""
+"Brug AI-prompten på fanen Cookiepolitik til at generere hele sidens indhold. "
+"Indsæt den genererede HTML på cookiepolitiksiden."
+
+#: includes/class-admin.php:260
+#, php-format
+msgid "Use the text attribute to customize the link text: %s"
+msgstr "Brug attributten text til at tilpasse linkteksten: %s"
+
+#: kansleri-cookie-consent.php:178
+msgid "Used to deliver relevant advertisements and track campaigns."
+msgstr "Bruges til at vise relevante annoncer og spore kampagner."
+
+#: includes/class-admin.php:631
+msgid ""
+"Video embeds from YouTube and Vimeo are automatically blocked until the "
+"visitor accepts marketing cookies. A placeholder with an accept button is "
+"shown instead. When the visitor has already consented, videos load normally."
+msgstr ""
+"Videoindlejringer fra YouTube og Vimeo blokeres automatisk, indtil den "
+"besøgende accepterer marketingcookies. I stedet vises en pladsholder med en "
+"acceptknap. Hvis den besøgende allerede har givet samtykke, indlæses videoer"
+" normalt."
+
+#: includes/class-admin.php:870
+msgid "Visitor"
+msgstr "Besøgende"
+
+#: kansleri-cookie-consent.php:51 kansleri-cookie-consent.php:238
+msgid "We use cookies"
+msgstr "Vi bruger cookies"
+
+#: kansleri-cookie-consent.php:52 kansleri-cookie-consent.php:239
+msgid ""
+"We use cookies to improve your experience and analyze site traffic. Choose "
+"which cookies you allow."
+msgstr ""
+"Vi bruger cookies for at forbedre din oplevelse og analysere webstedets "
+"trafik. Vælg, hvilke cookies du tillader."
+
+#: includes/class-admin.php:597
+msgid "What each option means"
+msgstr "Hvad hver indstilling betyder"
+
+#: includes/class-admin.php:644
+msgid ""
+"When WPML or Polylang is active, switch to a secondary language in the admin"
+" bar and edit General tab settings. Each language can have its own heading, "
+"description, and button labels. The default language values are used as "
+"fallback."
+msgstr ""
+"Når WPML eller Polylang er aktivt, skal du skifte til et sekundært sprog i "
+"administrationslinjen og redigere indstillingerne på fanen Generelt. Hvert "
+"sprog kan have sin egen overskrift, beskrivelse og knaptekster. "
+"Hvis der ikke er angivet værdier for et sprog, bruges standardsprogets værdier."
+
+#: includes/class-admin.php:145
+#, php-format
+msgid ""
+"You are editing settings for language: %s. Switch the admin language to edit"
+" other translations. Settings not configured for this language will fall "
+"back to the default language."
+msgstr ""
+"Du redigerer indstillinger for sproget: %s. Skift administrationssprog for "
+"at redigere andre oversættelser. Hvis indstillinger ikke er konfigureret "
+"for dette sprog, bruges standardsprogets værdier."
+
+#: includes/class-admin.php:250
+msgid ""
+"You can also add a link to open cookie settings anywhere (e.g. footer) using"
+" this shortcode:"
+msgstr ""
+"Du kan også tilføje et link, der åbner cookieindstillingerne, hvor som helst"
+" (f.eks. i sidefoden), ved hjælp af denne shortcode:"
+
+#: includes/class-admin.php:631
+msgid "YouTube & Vimeo iframe blocking"
+msgstr "Blokering af YouTube- og Vimeo-iframes"
+
+#: includes/class-admin.php:625
+msgid ""
+"Your GTM container identifier (for example GTM-N6828NL). It identifies which"
+" tag container your site uses. This field is informational in this plugin "
+"and does not inject GTM scripts."
+msgstr ""
+"Dit GTM-container-ID (for eksempel GTM-N6828NL). Det identificerer, hvilken "
+"tag-container dit websted bruger. Dette felt er kun informativt i dette "
+"plugin og indlejrer ikke GTM-scripts."
+
+#: includes/class-admin.php:307
+msgid "[{\"name\":\"_ga\",\"category\":\"analytics\", ...}]"
+msgstr "[{\"name\":\"_ga\",\"category\":\"analytics\", ...}]"
+
+#: kansleri-cookie-consent.php:358
+msgid "review settings"
+msgstr "gennemgå indstillinger"
+
+#: includes/class-admin.php:391
+msgid "— Select a page —"
+msgstr "— Vælg en side —"
